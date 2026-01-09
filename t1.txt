@@ -1,0 +1,13 @@
+Regression testing is re-running tests on existing software after code changes 
+(updates, bug fixes, new features) to ensure new additions haven't broken or negatively 
+impacted previously working functionality, maintaining overall software stability and quality,
+ often using automated tests within CI/CD pipelines 
+to catch issues early. It's a critical part of the Software Development
+
+ preventing regressions (unintended defects). 
+This video explains the concept of regression testing and why it's crucial for software development:
+
+111
+222
+333
+444
